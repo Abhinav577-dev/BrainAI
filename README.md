@@ -137,7 +137,7 @@ BrainAI
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BrainAI.git
+git clone https://github.com/Abhinav577-dev/BrainAI.git
 ```
 
 ```
@@ -199,7 +199,14 @@ npm run dev
 
 # 📸 Screenshots
 
-Add screenshots here
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/7f24c5be-406b-4563-b3e0-a7fc47077090" />
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/ee762df3-1560-40bf-94a5-5afed4db3199" />
+<img width="985" height="665" alt="image" src="https://github.com/user-attachments/assets/cfa9091e-3eec-4c93-9b42-a5bfb84eef78" />
+<img width="1013" height="357" alt="image" src="https://github.com/user-attachments/assets/36a472bf-a258-4746-98c8-512222b93d40" />
+
+
+
+
 
 ```
 /screenshots/chat.png
