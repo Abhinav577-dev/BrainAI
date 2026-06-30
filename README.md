@@ -208,11 +208,7 @@ npm run dev
 
 
 
-```
-/screenshots/chat.png
-/screenshots/upload.png
-/screenshots/memory.png
-```
+
 
 ---
 
